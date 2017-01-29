@@ -1,0 +1,20 @@
+#users_terms_cond{
+    width:60%;
+    margin:0 auto;
+    border:1px solid black;
+    background: #FFFFFF;
+}
+
+#users_terms_cond td{
+    border:1px solid gray;
+}
+
+#users_terms_cond td a{
+    text-decoration: none;
+}
+
+.tocclosedialog{
+	border-radius: 0;
+	color: white !important;
+	background: black !important;
+}
